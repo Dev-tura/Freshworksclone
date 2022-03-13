@@ -1,0 +1,43 @@
+.waterstonsss1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+.Secondwatermain {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.waterstonssstxt1 {
+    font-size: 26px;
+    text-align: center;
+}
+.pee1 {
+    font-weight: 650;
+    font-size: larger;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.span1 {
+    text-align: center;
+}
+/* .waterstonsss img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.spacess1 {
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.quotee11 {
+    width: 100px;
+}
+.quo11 {
+    width: 140px;
+}

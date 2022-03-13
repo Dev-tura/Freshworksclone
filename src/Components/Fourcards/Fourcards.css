@@ -1,0 +1,42 @@
+.f1 {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+.allfour {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.fp {
+    color: grey;
+    font-size: 18px;
+}
+.hh {
+    font-size: 30px;
+    font-weight: 600;
+}
+.mainH {
+    font-size: 40px;
+    font-weight: 650;
+    text-align: center;
+}
+.btn22 {
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 320px;
+    height: 50px;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+}
+.btn12 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

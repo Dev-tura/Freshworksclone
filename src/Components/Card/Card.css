@@ -1,0 +1,29 @@
+.cardbutton {
+    height: 70px;
+    width: 300px;
+    background-color: #ddd;
+    display: flex;
+    justify-content: center;
+    border-radius: 5px;
+    margin: 15px 15px 15px 0px;
+}
+.btnhold {
+    width: 90%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cardbutton p {
+    font-size: 16px;
+    font-weight: 650;
+}
+.arroww {
+    height: 80%;
+    /* width: 0px; */
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+.mycards {
+    display: flex;
+}

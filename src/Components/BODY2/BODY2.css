@@ -1,0 +1,62 @@
+.Bodyholder {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+/* .mycards {
+    flex-wrap: wrap;
+    display: flex;
+    width: 600px;
+    background-color: aqua;
+} */
+/* .Cardgroup {
+    width: 500px;
+    background-color: aqua;
+} */
+.Bodyhold {
+    width: 85%;
+    display: flex;
+    justify-content: center;
+    /* background-color: aqua; */
+    flex-wrap: wrap;
+}
+.bodyimg img{
+    width: 500px;
+}
+.bodytext {
+    width: 600px;
+    font-size: 22px;
+}
+
+.mycards {
+    width: 700px;
+    /* background-color: aqua; */
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 768px) {
+.bodytext {
+    width: 400px;
+    font-size: 16px;
+}
+
+
+
+}
+@media screen and (max-width: 500px ) {
+.bodytext {
+    width: 300px;
+}
+.bodyimg img {
+    width: 300px;
+}
+.mycards {
+    width: 300px;
+    flex-wrap: wrap;
+}
+
+}
+
